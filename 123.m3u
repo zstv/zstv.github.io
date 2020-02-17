@@ -1081,9 +1081,9 @@ http://aldirect.hls.huya.com/huyalive/30765679-2480413542-10653295043445522432-3
 http://baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
 #EXTINF:-1 group-title="地方电视台",湖南潇湘电影HD
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 group-title="斗鱼电影",歐美影院
+#EXTINF:-1 group-title="华数",歐美影院
 http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 group-title="斗鱼电影",亞洲影院
+#EXTINF:-1 group-title="华数",亞洲影院
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 #EXTINF:-1 group-title="港台频道",凤凰卫视中文台(官方)
 http://liveali.ifeng.com/live/FHZW.m3u8
@@ -1265,3 +1265,5 @@ https://qq-qiyi-youku.gms-lighting.com/m3u8/1903.m3u8
 https://yun.kubozy-youku-163.com/20190503/12425_27fd4788/1000k/hls/index.m3u8
 #EXTINF:-1 group-title="电影",半个喜剧
 http://vqzone.gtimg.com/1006_848a8eca6f69418fa8b41366c169866d.f20.mp4?ptype=http&vkey=4CF8E9D88E45F973024D58E12F586012C5754BD57E756E732871FA466101E67D87A678FB8A5C3A37B4716FD5F10973151F8F9378F4EC652A&sdtfrom=v1000&owner=0
+#EXTINF:-1 group-title="学习运动",七彩阳光广播体操
+http://220.168.187.1/ksyuncdnct.inter.iqiyi.com/videos/v1/20200129/58/cc/f83fa7b59b786efa9d5c077daec7926f.mp4?key=0874278f7ab32769257df04f35d405c3&dis_k=fb7e01aba78a8116353bc12ef5523500&dis_t=1581928139&dis_dz=CT-JiangSu&dis_st=40&src=iqiyi.com&dis_hit=0&uuid=0a820787-5e4a4ecb-232&qd_ip=3da0df02&dfp=&ip=61.160.223.2&qd_k=6313bc1d8e65856c7dd72fccac6b7ac5&qd_uid=0&qd_tm=1581928139302&m=v&qd_tvid=9936321200&qd_p=3da0df02&sgti=&ssl=&qd_vip=0&dis_src=vrs&qd_src=76f90cbd92f94a2e925d83e8ccd22cb7&qdv=1
